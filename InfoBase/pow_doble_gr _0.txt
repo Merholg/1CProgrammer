@@ -1,0 +1,58 @@
+#include <stdio.h>
+
+double sqrt(double a) {
+    double low = 0;
+    double high = (a < 1) ? 1 : a;
+    for (; ; ) {
+        double middle = (low + high) / 2;
+        if (middle * middle <= a) {
+            if (middle == low) {
+                return middle;
+            }
+            low = middle;
+        } else {
+            if (middle == high) {
+                return middle;
+            }
+            high = middle;
+        }
+    }
+}
+
+typedef struct {
+    double b;
+    double pow;
+} pow_t;
+
+void pow_integer(pow_t *p, double a, double b) {
+    if (b <= p->b) {
+        pow_integer(p, a * a, 2 * b);
+    }
+    if (b <= p->b) {
+        p->b -= b;
+        p->pow *= a;
+    }
+}
+
+void pow_fractional(pow_t *p, double a, double b) {
+    while (p->b > 0) {
+        if (b <= p->b) {
+            p->b -= b;
+            p->pow *= a;
+        }
+        a = sqrt(a);
+        b /= 2;
+    }
+}
+
+double pow(double a, double b) {
+    pow_t p = {b, 1};
+    pow_integer(&p, a, 1);
+    pow_fractional(&p, a, 1);
+    return p.pow;
+}
+
+int main() {
+    double b = 6.7, e = - 9.51;
+    printf("%lf\n", pow(b, e));
+}
