@@ -17,4 +17,11 @@
 {3,"1CV8",4},
 {4,"_$PerformError$_",8},
 {4,"_$InfoBase$_.DumpStart",9},
-{4,"_$InfoBase$_.DumpFinish",10}
+{4,"_$InfoBase$_.DumpFinish",10},
+{4,"_$InfoBase$_.PredefinedDataUpdate",11},
+{5,200daae2-b8c3-4d1e-9d54-3a8b65a7890e,"",1},
+{4,"_$Transaction$_.Begin",12},
+{4,"_$Data$_.New",13},
+{5,200daae2-b8c3-4d1e-9d54-3a8b65a7890e,"Справочник.NumOfRegions",1},
+{4,"_$Transaction$_.Commit",14},
+{4,"_$Data$_.Update",15}
