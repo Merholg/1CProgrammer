@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.NumOfRegions" id="200daae2-b8c3-4d1e-9d54-3a8b65a7890e" configVersion="0cc18b1b7220e7488cfb8a561487762f00000000"/>
+		<Metadata name="CommonForm.CommonFindNameOfRegion" id="f868194c-5127-464e-a487-a2a09c3ac69d" configVersion="fbd2907ed861b240990d53e4bbb13c9300000000"/>
+		<Metadata name="CommonForm.CommonFindNameOfRegion.Form" id="f868194c-5127-464e-a487-a2a09c3ac69d.0" configVersion="11e6a3d1789d5c4483bd3e4d1114f19a00000000"/>
+		<Metadata name="CommonModule.ServerModule_1" id="69e715c8-6a48-4549-bf3c-f7fbaafd2943" configVersion="dad52003bde16f43bde0cf312113abb200000000"/>
+		<Metadata name="CommonModule.ServerModule_1.Module" id="69e715c8-6a48-4549-bf3c-f7fbaafd2943.0" configVersion="d2f9e15d583d83438d865096c07e8c3600000000"/>
+		<Metadata name="CommonModule.ServerModule_Task3" id="ca4a91be-55db-401b-b953-4a8291af2ab4" configVersion="982d28984d3ca341bc3b6c28afdbf26500000000"/>
+		<Metadata name="CommonModule.ServerModule_Task3.Module" id="ca4a91be-55db-401b-b953-4a8291af2ab4.0" configVersion="52fa0ecddb38fa458c70f23503b0eb1200000000"/>
+		<Metadata name="Configuration.PracticalTasks1CProgrammer2024" id="762632cf-977a-450b-9184-6632826957cd" configVersion="3e30077ba8738f4387e6612d29e28c1800000000"/>
+		<Metadata name="Configuration.PracticalTasks1CProgrammer2024.HomePageWorkArea" id="4f6c610b-9cac-4b98-b268-e89747ed09b4.8" configVersion="bdab6aba91f6594fa8666e0463af195200000000"/>
+		<Metadata name="Configuration.PracticalTasks1CProgrammer2024.MainSectionCommandInterface" id="4f6c610b-9cac-4b98-b268-e89747ed09b4.9" configVersion="346272ba85673b4f951ea1e6bb76604b00000000"/>
+		<Metadata name="Configuration.PracticalTasks1CProgrammer2024.ManagedApplicationModule" id="4f6c610b-9cac-4b98-b268-e89747ed09b4.6" configVersion="1411223260ad84479747ec275588071a00000000"/>
+		<Metadata name="DataProcessor.PracticalTask2" id="99258b3f-d21c-4961-a755-dd92d06a633b" configVersion="b84fb75b4e146f45a38c66f775d5d6fb00000000"/>
+		<Metadata name="DataProcessor.PracticalTask2.Form.TypePowerForm" id="95d3b2f1-05b7-492f-9fb7-e3f66f687842" configVersion="297522b36dd49f47a0acb40bd04d21da00000000"/>
+		<Metadata name="DataProcessor.PracticalTask2.Form.TypePowerForm.Form" id="95d3b2f1-05b7-492f-9fb7-e3f66f687842.0" configVersion="96f35af1f307b140a76203aa53e96f7e00000000"/>
+		<Metadata name="DataProcessor.PracticalTask3" id="d4341d61-0d75-41c9-9eeb-cac74b1fde1f" configVersion="b89ec9ad63d6b84fbab15ff261e1e0c800000000"/>
+		<Metadata name="DataProcessor.PracticalTask3.Form.FindNameOfRegion" id="b1c2cac9-6a48-4cb6-a49c-5f00f2b5b959" configVersion="444e7d0acf3f8c46a7321f61e0c8991b00000000"/>
+		<Metadata name="DataProcessor.PracticalTask3.Form.FindNameOfRegion.Form" id="b1c2cac9-6a48-4cb6-a49c-5f00f2b5b959.0" configVersion="7dd3550bcdc6934b9a7f6326c15c4a5800000000"/>
+		<Metadata name="Language.Русский" id="c2790b51-e273-4d0a-871f-1c21ad457dcd" configVersion="639a610111ded143b28c0c08bb4e53a500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

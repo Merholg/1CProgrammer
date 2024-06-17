@@ -1,0 +1,852 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">44c1db48-28fd-11ef-9af5-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>01</v8:Code>
+			<v8:Description>Республика Адыгея (Адыгея)</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">44c1dfa8-28fd-11ef-9af5-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>02</v8:Code>
+			<v8:Description>Республика Башкортостан</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">44c1dfb2-28fd-11ef-9af5-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>102</v8:Code>
+			<v8:Description>Республика Башкортостан</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">44c1dfb3-28fd-11ef-9af5-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>702</v8:Code>
+			<v8:Description>Республика Башкортостан</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8d4a-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>03</v8:Code>
+			<v8:Description>Республика Бурятия</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fac-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>04</v8:Code>
+			<v8:Description>Республика Алтай</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fad-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>05</v8:Code>
+			<v8:Description>Республика Дагестан</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fae-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>06</v8:Code>
+			<v8:Description>Республика Ингушетия</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fb6-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>07</v8:Code>
+			<v8:Description>Кабардино-Балкарская Республика</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fb7-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>08</v8:Code>
+			<v8:Description>Республика Калмыкия</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fb8-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>09</v8:Code>
+			<v8:Description>Карачаево-Черкесская Республика</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fb9-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>10</v8:Code>
+			<v8:Description>Республика Карелия</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fba-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>11</v8:Code>
+			<v8:Description>Республика Коми</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fbb-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>12</v8:Code>
+			<v8:Description>Республика Марий Эл</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fc0-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>13</v8:Code>
+			<v8:Description>Республика Мордовия</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fc1-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>113</v8:Code>
+			<v8:Description>Республика Мордовия</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fc2-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>14</v8:Code>
+			<v8:Description>Республика Саха (Якутия)</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fc3-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>15</v8:Code>
+			<v8:Description>Республика Северная Осетия — Алания</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fc4-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>16</v8:Code>
+			<v8:Description>Республика Татарстан (Татарстан)</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fc5-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>116</v8:Code>
+			<v8:Description>Республика Татарстан (Татарстан)</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fca-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>716</v8:Code>
+			<v8:Description>Республика Татарстан (Татарстан)</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fcb-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>17</v8:Code>
+			<v8:Description>Республика Тыва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fcc-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>18</v8:Code>
+			<v8:Description>Удмуртская Республика</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fcd-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>19</v8:Code>
+			<v8:Description>Республика Хакасия</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fce-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>21</v8:Code>
+			<v8:Description>Чувашская Республика (Чувашия)</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fcf-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>121</v8:Code>
+			<v8:Description>Чувашская Республика (Чувашия)</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fd0-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>22</v8:Code>
+			<v8:Description>Алтайский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fd4-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>23</v8:Code>
+			<v8:Description>Краснодарский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fd5-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>93</v8:Code>
+			<v8:Description>Краснодарский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fd6-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>123</v8:Code>
+			<v8:Description>Краснодарский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fd7-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>193</v8:Code>
+			<v8:Description>Краснодарский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fd8-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>24</v8:Code>
+			<v8:Description>Красноярский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fd9-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>124</v8:Code>
+			<v8:Description>Красноярский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fda-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>25</v8:Code>
+			<v8:Description>Приморский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fde-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>125</v8:Code>
+			<v8:Description>Приморский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fdf-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>26</v8:Code>
+			<v8:Description>Ставропольский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fe0-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>126</v8:Code>
+			<v8:Description>Ставропольский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fe1-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>27</v8:Code>
+			<v8:Description>Хабаровский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fe2-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>28</v8:Code>
+			<v8:Description>Амурская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fe3-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>29</v8:Code>
+			<v8:Description>Архангельская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fe8-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>30</v8:Code>
+			<v8:Description>Астраханская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fe9-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>31</v8:Code>
+			<v8:Description>Белгородская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fea-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>32</v8:Code>
+			<v8:Description>Брянская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8feb-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>33</v8:Code>
+			<v8:Description>Владимирская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fec-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>34</v8:Code>
+			<v8:Description>Волгоградская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fed-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>134</v8:Code>
+			<v8:Description>Волгоградская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fee-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>35</v8:Code>
+			<v8:Description>Вологодская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8ff2-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>36</v8:Code>
+			<v8:Description>Воронежская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8ff3-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>136</v8:Code>
+			<v8:Description>Воронежская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8ff4-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>37</v8:Code>
+			<v8:Description>Ивановская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8ff5-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>38</v8:Code>
+			<v8:Description>Иркутская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8ff6-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>138</v8:Code>
+			<v8:Description>Иркутская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8ff7-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>39</v8:Code>
+			<v8:Description>Калининградская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8ffc-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>40</v8:Code>
+			<v8:Description>Калужская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8ffd-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>41</v8:Code>
+			<v8:Description>Камчатский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8ffe-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>42</v8:Code>
+			<v8:Description>Кемеровская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f8fff-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>142</v8:Code>
+			<v8:Description>Кемеровская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f9000-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>43</v8:Code>
+			<v8:Description>Кировская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f9001-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>44</v8:Code>
+			<v8:Description>Костромская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f9002-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>45</v8:Code>
+			<v8:Description>Курганская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f9006-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>46</v8:Code>
+			<v8:Description>Курская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f9007-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>47</v8:Code>
+			<v8:Description>Ленинградская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f9008-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>147</v8:Code>
+			<v8:Description>Ленинградская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f9009-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>48</v8:Code>
+			<v8:Description>Липецкая область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">9e8f900a-28fe-11ef-9d01-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>49</v8:Code>
+			<v8:Description>Магаданская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5cc9b0-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>50</v8:Code>
+			<v8:Description>Московская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb7c-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>90</v8:Code>
+			<v8:Description>Московская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb7d-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>150</v8:Code>
+			<v8:Description>Московская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb7e-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>190</v8:Code>
+			<v8:Description>Московская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb7f-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>750</v8:Code>
+			<v8:Description>Московская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb80-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>790</v8:Code>
+			<v8:Description>Московская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb81-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>51</v8:Code>
+			<v8:Description>Мурманская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb82-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>52</v8:Code>
+			<v8:Description>Нижегородская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb83-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>152</v8:Code>
+			<v8:Description>Нижегородская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb86-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>53</v8:Code>
+			<v8:Description>Новгородская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb87-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>54</v8:Code>
+			<v8:Description>Новосибирская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb88-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>154</v8:Code>
+			<v8:Description>Новосибирская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb89-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>55</v8:Code>
+			<v8:Description>Омская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb8a-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>155</v8:Code>
+			<v8:Description>Омская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb8b-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>56</v8:Code>
+			<v8:Description>Оренбургская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb8c-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>156</v8:Code>
+			<v8:Description>Оренбургская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb8d-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>57</v8:Code>
+			<v8:Description>Орловская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb8e-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>58</v8:Code>
+			<v8:Description>Пензенская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb8f-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>59</v8:Code>
+			<v8:Description>Пермский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb90-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>159</v8:Code>
+			<v8:Description>Пермский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb91-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>60</v8:Code>
+			<v8:Description>Псковская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb92-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>61</v8:Code>
+			<v8:Description>Ростовская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb93-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>161</v8:Code>
+			<v8:Description>Ростовская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb94-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>761</v8:Code>
+			<v8:Description>Ростовская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb95-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>62</v8:Code>
+			<v8:Description>Рязанская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb96-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>63</v8:Code>
+			<v8:Description>Самарская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb97-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>163</v8:Code>
+			<v8:Description>Самарская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb98-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>763</v8:Code>
+			<v8:Description>Самарская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb99-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>64</v8:Code>
+			<v8:Description>Саратовская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb9a-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>164</v8:Code>
+			<v8:Description>Саратовская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb9b-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>65</v8:Code>
+			<v8:Description>Сахалинская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb9c-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>66</v8:Code>
+			<v8:Description>Свердловская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb9d-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>96</v8:Code>
+			<v8:Description>Свердловская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb9e-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>196</v8:Code>
+			<v8:Description>Свердловская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccb9f-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>67</v8:Code>
+			<v8:Description>Смоленская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba0-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>68</v8:Code>
+			<v8:Description>Тамбовская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba1-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>69</v8:Code>
+			<v8:Description>Тверская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba2-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>70</v8:Code>
+			<v8:Description>Томская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba3-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>71</v8:Code>
+			<v8:Description>Тульская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba4-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>72</v8:Code>
+			<v8:Description>Тюменская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba5-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>73</v8:Code>
+			<v8:Description>Ульяновская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba6-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>173</v8:Code>
+			<v8:Description>Ульяновская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba7-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>74</v8:Code>
+			<v8:Description>Челябинская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba8-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>174</v8:Code>
+			<v8:Description>Челябинская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccba9-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>75</v8:Code>
+			<v8:Description>Забайкальский край</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbaa-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>76</v8:Code>
+			<v8:Description>Ярославская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbab-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>77</v8:Code>
+			<v8:Description>Москва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbac-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>97</v8:Code>
+			<v8:Description>Москва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbad-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>99</v8:Code>
+			<v8:Description>Москва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbae-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>177</v8:Code>
+			<v8:Description>Москва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbaf-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>197</v8:Code>
+			<v8:Description>Москва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb0-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>199</v8:Code>
+			<v8:Description>Москва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb1-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>777</v8:Code>
+			<v8:Description>Москва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb2-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>797</v8:Code>
+			<v8:Description>Москва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb3-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>799</v8:Code>
+			<v8:Description>Москва</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb4-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>78</v8:Code>
+			<v8:Description>Санкт-Петербург</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb5-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>98</v8:Code>
+			<v8:Description>Санкт-Петербург</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb6-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>178</v8:Code>
+			<v8:Description>Санкт-Петербург</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb7-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>198</v8:Code>
+			<v8:Description>Санкт-Петербург</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb8-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>79</v8:Code>
+			<v8:Description>Еврейская автономная область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbb9-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>80</v8:Code>
+			<v8:Description>Донецкая Народная Республика</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbba-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>81</v8:Code>
+			<v8:Description>Луганская Народная Республика</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbbb-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>82</v8:Code>
+			<v8:Description>Республика Крым</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">db5ccbbc-2a1e-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>83</v8:Code>
+			<v8:Description>Ненецкий автономный округ</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550da4-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>84</v8:Code>
+			<v8:Description>Херсонская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550dae-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>184</v8:Code>
+			<v8:Description>Херсонская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550daf-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>85</v8:Code>
+			<v8:Description>Запорожская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550db0-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>185</v8:Code>
+			<v8:Description>Запорожская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550db1-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>86</v8:Code>
+			<v8:Description>Ханты-Мансийский автономный округ - Югра</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550db2-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>186</v8:Code>
+			<v8:Description>Ханты-Мансийский автономный округ - Югра</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550db3-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>87</v8:Code>
+			<v8:Description>Чукотский автономный округ</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550db4-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>89</v8:Code>
+			<v8:Description>Ямало-Ненецкий автономный округ</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550db5-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>92</v8:Code>
+			<v8:Description>Севастополь</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550db6-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>95</v8:Code>
+			<v8:Description>Чеченская республика</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550db7-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>94</v8:Code>
+			<v8:Description>Байконур</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+		<v8:CatalogObject.NumOfRegions>
+			<v8:Ref xsi:type="v8:CatalogRef.NumOfRegions">94550db8-2a21-11ef-8b10-0800277107b6</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>188</v8:Code>
+			<v8:Description>Харьковская область</v8:Description>
+		</v8:CatalogObject.NumOfRegions>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
