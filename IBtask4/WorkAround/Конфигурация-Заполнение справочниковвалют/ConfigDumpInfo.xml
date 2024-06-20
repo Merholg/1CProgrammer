@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Банки" id="cb214217-8c23-44c5-870f-d9196a790fbe" configVersion="d7563a740b5fd84e91e9602858f3b72b00000000"/>
+		<Metadata name="Catalog.Валюты" id="95e2280a-617e-4440-b343-25491eb71efc" configVersion="2a781bcc4fc29f4b9997306efdeff5d300000000">
+			<Metadata name="Catalog.Валюты.Attribute.БуквенныйКодВалюты" id="d70f17c4-2d8a-4d64-a3cc-1730fae8314a"/>
+		</Metadata>
+		<Metadata name="Catalog.Договоры" id="163997ed-f342-4241-88f0-ff30bb945aa7" configVersion="e041768e5a9d6c4c8b8a701ea76b4a3e00000000"/>
+		<Metadata name="Catalog.Должности" id="a91b12cd-8b13-407b-bb56-544aa8b87930" configVersion="29a9b94a259be240b4cb5b063dc8771f00000000"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="7cd3dd50-e89c-471e-9d48-e415a1426daa" configVersion="9d55bdad1b9e1a4691aa2e55aa8dbc8000000000"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения.Predefined" id="7cd3dd50-e89c-471e-9d48-e415a1426daa.1c" configVersion="434ab206bec7104bbefeddc9d3feb40700000000"/>
+		<Metadata name="Catalog.Контрагенты" id="52ab0c14-ade2-4a15-b630-d10bbe2dc41f" configVersion="59b912459473d94084b2fd6b07bd6ca100000000"/>
+		<Metadata name="Catalog.Номенклатура" id="47c0244b-9b22-4f6b-b119-1b72acf85d32" configVersion="ef12cd98a0137240a20ed910f75009f700000000"/>
+		<Metadata name="Catalog.Организации" id="804bb901-f3d7-492c-8fd8-e8666eaceb08" configVersion="7d0405ebac8507449cade884d1c8a0fb00000000"/>
+		<Metadata name="Catalog.РасчетныеСчета" id="a395fcc0-3c58-4c9a-ba65-41a89f8d4489" configVersion="7b22db1ca1638c49a6c5ff162e4dcd6200000000"/>
+		<Metadata name="Catalog.Склад" id="94146e02-4d45-40bd-be3d-c0176ca43463" configVersion="da2dbf551ecd80409b0864641774439600000000"/>
+		<Metadata name="Catalog.Сотрудники" id="d9d7e68c-a09f-4270-a515-2b04465718fe" configVersion="e7c32d49489b9b43bd9dffe32d4473b900000000"/>
+		<Metadata name="Configuration.Programmer1C2024PracticalTask4" id="b5e33eab-384f-4464-bed3-9753a8803a20" configVersion="ab0abe0650b3ad4fb64b1216c2510fab00000000"/>
+		<Metadata name="Configuration.Programmer1C2024PracticalTask4.HomePageWorkArea" id="b0d6452a-cf4f-44e4-a146-bad13131468a.8" configVersion="39e90dc90ceeab4f85b7440f01ba0a9000000000"/>
+		<Metadata name="Configuration.Programmer1C2024PracticalTask4.MainSectionCommandInterface" id="b0d6452a-cf4f-44e4-a146-bad13131468a.9" configVersion="d4c97418cf820c4d866984cf5abc721f00000000"/>
+		<Metadata name="DataProcessor.ЗаполнениеСправочникаВалют" id="531678e0-72ed-4bc5-8e72-5226da3fcd95" configVersion="977286cd72cd2e44b90d7c2191a558d500000000"/>
+		<Metadata name="DataProcessor.ЗаполнениеСправочникаВалют.Form.ЗаполнениеСправочникаВалют" id="6ea1723c-e897-40b9-a60c-2090db17036e" configVersion="3226ec23f250794aad07f8cb89956da600000000"/>
+		<Metadata name="DataProcessor.ЗаполнениеСправочникаВалют.Form.ЗаполнениеСправочникаВалют.Form" id="6ea1723c-e897-40b9-a60c-2090db17036e.0" configVersion="8c6ddd9f9eeec44990495534ef5fea0b00000000"/>
+		<Metadata name="Enum.ВидыНоменклатуры" id="69b0349a-fb6f-450a-acfb-cdb33ee1f246" configVersion="c86176525a305f4d9b13bf543f2b728000000000">
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="0ee0916b-3333-4123-987f-98387c539d36"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.ОС" id="60d6dadd-4d8d-47fd-b242-2296679df1e1"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="79a7d615-37e7-42f8-93d6-67552f9de793"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Материал" id="9a9c9b8f-7058-4f79-bf41-5529f544a528"/>
+		</Metadata>
+		<Metadata name="Enum.Пол" id="270b061e-8dbf-4237-9cdd-1ce8a95da2ae" configVersion="83033d473b758d4ea6a629aef725089600000000">
+			<Metadata name="Enum.Пол.EnumValue.Нет" id="b52a00c6-a4cb-48bc-95e6-b10ffb01c2e2"/>
+			<Metadata name="Enum.Пол.EnumValue.Жен" id="bd57645e-26f2-4145-80c9-f18b701eaa27"/>
+			<Metadata name="Enum.Пол.EnumValue.Муж" id="bf62d7a5-e097-4623-9e38-afced980a3b9"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="64e71e65-8c34-4cd7-b333-88e019df7093" configVersion="8fc9744a9b365b4b84884dc1f8958de800000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
