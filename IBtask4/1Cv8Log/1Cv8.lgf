@@ -42,4 +42,14 @@
 {4,"_$Data$_.Update",15},
 {4,"_$Data$_.Delete",16},
 {4,"_$Job$_.Start",17},
-{4,"_$Job$_.Finish",18}
+{4,"_$Job$_.Finish",18},
+{5,cb214217-8c23-44c5-870f-d9196a790fbe,"Catalog.Банки",5},
+{5,52ab0c14-ade2-4a15-b630-d10bbe2dc41f,"Catalog.Контрагенты",8},
+{5,a395fcc0-3c58-4c9a-ba65-41a89f8d4489,"Catalog.РасчетныеСчета",6},
+{5,804bb901-f3d7-492c-8fd8-e8666eaceb08,"Catalog.Организации",7},
+{5,163997ed-f342-4241-88f0-ff30bb945aa7,"Catalog.Договоры",9},
+{5,ecf9e4a9-8a34-4dec-abb5-217fe1d30530,"Document.ДокументДоговор",12},
+{4,"_$Data$_.Post",19},
+{5,d9d7e68c-a09f-4270-a515-2b04465718fe,"Catalog.Сотрудники",11},
+{4,"_$InfoBase$_.DumpStart",20},
+{4,"_$InfoBase$_.DumpFinish",21}
