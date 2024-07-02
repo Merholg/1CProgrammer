@@ -22,4 +22,14 @@
 {4,"_$Transaction$_.Commit",12},
 {5,804bb901-f3d7-492c-8fd8-e8666eaceb08,"Catalog.Организации",2},
 {4,"_$InfoBase$_.PredefinedDataUpdate",13},
-{5,7004140d-e2ee-4526-8cc3-ccdffc398b85,"",3}
+{5,7004140d-e2ee-4526-8cc3-ccdffc398b85,"",3},
+{5,7004140d-e2ee-4526-8cc3-ccdffc398b85,"Catalog.ВидЦены",3},
+{4,"_$Data$_.PredefinedDataInitialization",14},
+{4,"_$Data$_.New",15},
+{5,47c0244b-9b22-4f6b-b119-1b72acf85d32,"Catalog.Номенклатура",4},
+{5,381b81a0-0713-4c8c-b3e2-555343ddcd02,"Document.ЗаказКлиента",5},
+{4,"_$Data$_.Post",16},
+{4,"_$PerformError$_",17},
+{5,ef75012f-b6c9-425b-bc70-50b5fd6084e9,"Document.ЗаказПоставщику",6},
+{5,c5cd3d9c-9cd2-4ef2-8013-68c9612b45f5,"Document.РеализацияТоваров",7},
+{5,b440bc2f-f39d-48b5-824d-b946921e4a85,"Document.ПоступлениеТоваров",8}
