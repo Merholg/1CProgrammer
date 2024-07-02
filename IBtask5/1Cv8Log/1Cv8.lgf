@@ -19,4 +19,7 @@
 {4,"_$Transaction$_.Begin",10},
 {4,"_$Data$_.Update",11},
 {5,52ab0c14-ade2-4a15-b630-d10bbe2dc41f,"Catalog.Контрагенты",1},
-{4,"_$Transaction$_.Commit",12}
+{4,"_$Transaction$_.Commit",12},
+{5,804bb901-f3d7-492c-8fd8-e8666eaceb08,"Catalog.Организации",2},
+{4,"_$InfoBase$_.PredefinedDataUpdate",13},
+{5,7004140d-e2ee-4526-8cc3-ccdffc398b85,"",3}
