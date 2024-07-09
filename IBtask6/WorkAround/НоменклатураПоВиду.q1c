@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Новый запрос">
+		<text>SELECT
+	Номенклатура.Ref AS Ref
+FROM
+	Catalog.Номенклатура AS Номенклатура
+WHERE
+	Номенклатура.IsFolder = FALSE
+	AND Номенклатура.ВидНоменклатуры = &amp;ВидНоменклатуры
+</text>
+		<parameters>
+			<parameter name="ВидНоменклатуры" type="EnumRef.ВидыНоменклатуры" value="Услуга"/>
+		</parameters>
+	</query>
+</querylist>
