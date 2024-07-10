@@ -30,4 +30,9 @@
 {5,b440bc2f-f39d-48b5-824d-b946921e4a85,"Document.ПоступлениеТоваров",5},
 {5,c5cd3d9c-9cd2-4ef2-8013-68c9612b45f5,"Document.РеализацияТоваров",6},
 {5,778556bc-2994-4402-b750-c9cd82e9c12d,"Document.ОказаниеУслуг",7},
-{5,54f782a8-2320-4d00-84f5-b5c106e3dbc0,"Document.ВыпискаБанка",8}
+{5,54f782a8-2320-4d00-84f5-b5c106e3dbc0,"Document.ВыпискаБанка",8},
+{5,52ab0c14-ade2-4a15-b630-d10bbe2dc41f,"Catalog.Контрагенты",9},
+{5,381b81a0-0713-4c8c-b3e2-555343ddcd02,"Document.ЗаказКлиента",10},
+{4,"_$Transaction$_.Rollback",16},
+{4,"_$InfoBase$_.DumpStart",17},
+{4,"_$InfoBase$_.DumpFinish",18}
