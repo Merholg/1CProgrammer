@@ -16,4 +16,11 @@
 {4,"_$Access$_.Access",9},
 {3,"1CV8C",2},
 {3,"BackgroundJob",3},
-{4,"_$PerformError$_",10}
+{4,"_$PerformError$_",10},
+{4,"_$Transaction$_.Begin",11},
+{4,"_$Data$_.New",12},
+{5,dc75fc53-8312-40a5-9f31-0531b77ba195,"Document.ЗаказТоваровПоставщику",1},
+{4,"_$Transaction$_.Commit",13},
+{4,"_$Data$_.Update",14},
+{4,"_$Transaction$_.Rollback",15},
+{4,"_$Data$_.Delete",16}
