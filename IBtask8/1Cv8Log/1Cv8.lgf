@@ -23,4 +23,6 @@
 {4,"_$Transaction$_.Commit",13},
 {4,"_$Data$_.Update",14},
 {4,"_$Transaction$_.Rollback",15},
-{4,"_$Data$_.Delete",16}
+{4,"_$Data$_.Delete",16},
+{4,"_$InfoBase$_.DumpStart",17},
+{4,"_$InfoBase$_.DumpFinish",18}
