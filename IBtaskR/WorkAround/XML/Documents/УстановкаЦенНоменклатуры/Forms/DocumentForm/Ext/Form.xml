@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<AutoTime>CurrentOrLast</AutoTime>
+	<UsePostingMode>Auto</UsePostingMode>
+	<RepostOnWrite>true</RepostOnWrite>
+	<AutoCommandBar name="FormCommandBar" id="-1"/>
+	<ChildItems>
+		<InputField name="Number" id="1">
+			<DataPath>Object.Number</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="NumberContextMenu" id="2"/>
+			<ExtendedTooltip name="NumberExtendedTooltip" id="3"/>
+		</InputField>
+		<InputField name="Date" id="4">
+			<DataPath>Object.Date</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="DateContextMenu" id="5"/>
+			<ExtendedTooltip name="DateExtendedTooltip" id="6"/>
+		</InputField>
+		<InputField name="ВидЦены" id="7">
+			<DataPath>Object.ВидЦены</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ВидЦеныContextMenu" id="8"/>
+			<ExtendedTooltip name="ВидЦеныExtendedTooltip" id="9"/>
+		</InputField>
+		<Table name="Товары" id="10">
+			<Representation>List</Representation>
+			<AutoInsertNewRow>true</AutoInsertNewRow>
+			<EnableStartDrag>true</EnableStartDrag>
+			<EnableDrag>true</EnableDrag>
+			<DataPath>Object.Товары</DataPath>
+			<RowFilter xsi:nil="true"/>
+			<ContextMenu name="ТоварыContextMenu" id="11"/>
+			<AutoCommandBar name="ТоварыCommandBar" id="12"/>
+			<ExtendedTooltip name="ТоварыExtendedTooltip" id="13"/>
+			<SearchStringAddition name="ТоварыSearchString" id="14">
+				<AdditionSource>
+					<Item>Товары</Item>
+					<Type>SearchStringRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ТоварыSearchStringContextMenu" id="15"/>
+				<ExtendedTooltip name="ТоварыSearchStringExtendedTooltip" id="16"/>
+			</SearchStringAddition>
+			<ViewStatusAddition name="ТоварыViewStatus" id="17">
+				<AdditionSource>
+					<Item>Товары</Item>
+					<Type>ViewStatusRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ТоварыViewStatusContextMenu" id="18"/>
+				<ExtendedTooltip name="ТоварыViewStatusExtendedTooltip" id="19"/>
+			</ViewStatusAddition>
+			<SearchControlAddition name="ТоварыSearchControl" id="20">
+				<AdditionSource>
+					<Item>Товары</Item>
+					<Type>SearchControl</Type>
+				</AdditionSource>
+				<ContextMenu name="ТоварыSearchControlContextMenu" id="21"/>
+				<ExtendedTooltip name="ТоварыSearchControlExtendedTooltip" id="22"/>
+			</SearchControlAddition>
+			<ChildItems>
+				<LabelField name="ТоварыLineNumber" id="23">
+					<DataPath>Object.Товары.LineNumber</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТоварыLineNumberContextMenu" id="24"/>
+					<ExtendedTooltip name="ТоварыLineNumberExtendedTooltip" id="25"/>
+				</LabelField>
+				<InputField name="ТоварыНоменклатура" id="26">
+					<DataPath>Object.Товары.Номенклатура</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ТоварыНоменклатураContextMenu" id="27"/>
+					<ExtendedTooltip name="ТоварыНоменклатураExtendedTooltip" id="28"/>
+				</InputField>
+				<InputField name="ТоварыКоличество" id="29">
+					<DataPath>1/0:ac4417f1-4a39-414b-99e3-26279bc5670a/0:73bdf4af-e615-48b3-993e-90bb5a390414</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ТоварыКоличествоContextMenu" id="30"/>
+					<ExtendedTooltip name="ТоварыКоличествоExtendedTooltip" id="31"/>
+					<Events>
+						<Event name="OnChange">ТоварыКоличествоЦенаOnChange</Event>
+					</Events>
+				</InputField>
+				<InputField name="ТоварыЦена" id="32">
+					<DataPath>Object.Товары.Цена</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ТоварыЦенаContextMenu" id="33"/>
+					<ExtendedTooltip name="ТоварыЦенаExtendedTooltip" id="34"/>
+					<Events>
+						<Event name="OnChange">ТоварыКоличествоЦенаOnChange</Event>
+					</Events>
+				</InputField>
+				<InputField name="ТоварыСумма" id="35">
+					<DataPath>1/0:ac4417f1-4a39-414b-99e3-26279bc5670a/0:fca26117-3613-417c-862c-2b250a7ae810</DataPath>
+					<Enabled>false</Enabled>
+					<ReadOnly>true</ReadOnly>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ТоварыСуммаContextMenu" id="36"/>
+					<ExtendedTooltip name="ТоварыСуммаExtendedTooltip" id="37"/>
+				</InputField>
+			</ChildItems>
+		</Table>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Object" id="1">
+			<Type>
+				<v8:Type>cfg:DocumentObject.УстановкаЦенНоменклатуры</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+			<SavedData>true</SavedData>
+			<UseAlways>
+				<Field>Object.RegisterRecords</Field>
+			</UseAlways>
+		</Attribute>
+	</Attributes>
+	<CommandInterface>
+		<NavigationPanel>
+			<Item>
+				<Command>InformationRegister.ЦеныНоменклатуры.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+		</NavigationPanel>
+	</CommandInterface>
+</Form>
